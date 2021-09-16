@@ -19,3 +19,7 @@ cost - Amount spent to show ad
 conversions - Number of transactions received
 
 revenue: revenue generated from the ad
+
+### Used Machine Learning Model 
+- LinearRegression
+- 
