@@ -22,4 +22,6 @@ revenue: revenue generated from the ad
 
 ### Used Machine Learning Model 
 - LinearRegression
-- 
+- DecisionTress
+- RandomForest
+- XgBoost
